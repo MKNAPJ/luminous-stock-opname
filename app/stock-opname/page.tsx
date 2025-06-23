@@ -1,12 +1,10 @@
-'use client'
-
-import StockForm from '@/components/StockForm'
+// File: app/stock-opname/page.tsx
 
 export default function StockOpnamePage() {
   return (
-    <main className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Input Stock Opname</h1>
-      <StockForm />
-    </main>
-  )
+    <div>
+      <h1 className="text-2xl font-bold">Halaman Stock Opname</h1>
+      {/* Di sini kamu akan meletakkan tabel stok opname nanti */}
+    </div>
+  );
 }
