@@ -1,1 +1,3 @@
-# luminous-stock-opname
+# Stock Opname App
+
+React + Supabase untuk pencatatan stock.
